@@ -28,9 +28,7 @@ bluesky_username: alarmingcod.co.uk
 github_username:  alarmingcod
 
 # Build settings
-theme: jekyll-theme-minima
-plugins:
-  - jekyll-feed
+theme: jekyll-theme-minimal
 
 # Exclude from processing.
 # The following items will not be processed, by default.
