@@ -41,8 +41,8 @@ theme: minima
 # their entries' file path in the `include:` list.
 #
 exclude:
-   - Gemfile
-   - Gemfile.lock
+#  - Gemfile
+#   - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
