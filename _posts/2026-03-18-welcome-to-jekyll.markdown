@@ -7,7 +7,7 @@ categories: route
 **Start from** Burneside Rail Station the rout iniitially follows the River Kent upstream to Cowan Head before cutting South to Cunswick Scar, Then follows the escarpments west of kendal, above the Lyth Valley down to the village of Levens.
 Transport for the day. Train to Burneside. Bus back from Levens/ near Levens, to Kendal.
 
-****Totals for the Day
+####Totals for the Day
 
 **Alongth:** 13 Miles
 
