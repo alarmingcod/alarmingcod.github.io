@@ -4,16 +4,22 @@ title:  "Day 5: Broughton in Furness to Silescroft"
 date:   2026-03-21 11:20:00 +0000
 categories: route
 ---
-**Start from** Greenodd and climb up and across the neck of the Furness Peninsula to Kirkby Moor before drpping into Grizebeck and the lower reaches of the Duddon Valley, anding in Broughton iN Furness.
+Day 6 could be a lot shorter and flatter. but...
 
-Transport. Train to Ulverston and catch the X6 to Greenodd. From Broughton in Furness, backtrack the last mile or so of the route to Foxfield and pick up the train
+I wanted to visit the stone circle at Swinside, and climb Black Combe.
 
-![Day 4 Route Map](/docs/assets/Day4-Greenodd-Broughton.png)
+So it isn't.
 
-[View Route in OS Maps](https://explore.osmaps.com/route/30408340/ldb4-greenodd-to-broughton-in-furness)
+**Start from** Broughton in Furness village centre head in to the valley of the delightfully named River Lickleand play frogger on the A595 at Duddon Bridge. Then climb up and round via Thwaite Yeat to the Stone Circle at Swinside, before dropping back to the A595 at Hallthwaites. Before re-ascending the 600 lofty and majestic metres of Black Combe. Then descend directly to Silecroft from the summit.
+
+Transport. Train out to Foxfield, Train back from Silecroft. 
+
+![Day 5 Route Map](/docs/assets/Day4-Greenodd-Broughton.png)
+
+[View Route in OS Maps](https://explore.osmaps.com/route/30408562/ldb-5-broughton-in-furness-to-silecroft)
 
 #### Totals for the Day
 
 ||Alongth|Upth|
 |---|---|---|
-|**Day3**|12.1 Miles (1.2 Windermeres)|2040ft (0.6 Scafell Pikes)|
+|**Day5**|16.2 Miles (1.5 Windermeres)|3860ft (1.2 Scafell Pikes)|
