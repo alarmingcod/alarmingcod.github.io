@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 4: Penruddock to Hackthorpe"
+title:  "Day 14: Penruddock to Hackthorpe"
 date:   2026-03-21 14:10:00 +0000
 categories: route
 ---
