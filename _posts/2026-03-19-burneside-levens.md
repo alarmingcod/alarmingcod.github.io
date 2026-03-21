@@ -13,8 +13,6 @@ Transport for the day. Train to Burneside. Bus back from Levens/ near Levens, to
 [View Route in OS Maps](https://explore.osmaps.com/route/30407399/ldb-burneside-to-levens?lat=54.28191&lon=-2.80256&zoom=12.268&overlays=os-obstacles-layer&style=TopoAuto&type=2d)
 
 #### Totals for the Day
-
-**Alongth:** 13 Miles
-
-**Upth:** 1400ft
-
+||Alongth|Upth|
+|---|---|---|
+|**Day1**|13 Miles (1.2 Windermeres)|1400ft (0.4 ScafellPikes)|
