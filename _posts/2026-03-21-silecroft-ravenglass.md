@@ -10,7 +10,7 @@ Transport. Train out to Silecroft, Train back from Ravenglass.
 
 ![Day 5 Route Map](/docs/assets/Day6SilecroftRavenglass.png)
 
-[View Route in OS Maps](https://explore.osmaps.com/route/30408562/ldb-5-broughton-in-furness-to-silecroft)
+[View Route in OS Maps](https://explore.osmaps.com/route/30408646/ldb-6-silecroft-to-ravenglass)
 
 #### Totals for the Day
 
