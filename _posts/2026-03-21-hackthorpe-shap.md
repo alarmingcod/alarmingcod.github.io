@@ -9,7 +9,7 @@ categories: route
 
 Transport. The 106 bus runs along the A6 between Penrith and Hackthorpe and Shap. Be careful not to miss the last bus back to Penrith in the evening.
 
-![Day 14 Route Map](/docs/assets/Day14PenruddockHackthorpe.png)
+![Day 14 Route Map](/docs/assets/Day15HackthorpeShap.png)
 
 [View Route in OS Maps](https://explore.osmaps.com/route/30409796/ldb-14-penruddock-to-hackthorpe)
 
