@@ -12,7 +12,7 @@ Transport. Ennerdale Bridge has bob-all public transport connections.
 
 ![Day 8 Route Map](/docs/assets/Day8CalderEnnerdale.png)
 
-[View Route in OS Maps]([https://explore.osmaps.com/route/30408894/ldb-8-calder-bridge-to-ennerdale-bridge)
+[View Route in OS Maps](https://explore.osmaps.com/route/30408894/ldb-8-calder-bridge-to-ennerdale-bridge)
 
 #### Totals for the Day
 
