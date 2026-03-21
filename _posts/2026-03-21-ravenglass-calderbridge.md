@@ -7,7 +7,7 @@ categories: route
 **Start from** Ravenglass seafront cross the River Esk via the railwat bridge and follow the coast path again as far as Drigg. From Drigg cut inland, skirting around Gosforth. Follow back lanes over the lower slopes of Ponsonby Fell and enter Calder Bridge via Calder abbey
 
 Transport. Public transport gets sketchy for the next few legs. So Ravenglass to Loweswater or Cockermouth may be best attempted as 
-![Day 5 Route Map](/docs/assets/Day6SilecroftRavenglass.png)
+![Day 5 Route Map](/docs/assets/Day7RavenglassCalderBridge.png)
 
 [View Route in OS Maps](https://explore.osmaps.com/route/30408746/ldb7-racenglass-to-calder-bridge)
 
