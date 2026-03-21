@@ -11,7 +11,7 @@ Day 10 also takes in some lesser-spotted wainwrights. The less obsessed can avoi
 
 Transport. For those despearate to get back to civilisation (not that Cockermouth isn't civilised), there are regular busses from the centre of Cockermouth to the west coast mainline station at Penrith)
 
-![Day 10 Route Map](/docs/assets/Day9EnnerdaleLoweswater.png)
+![Day 10 Route Map](/docs/assets/Day10LoweswaterCockermouth.png)
 
 [View Route in OS Maps](https://explore.osmaps.com/route/30409049/ldb10-loweswater-to-cockermouth)
 
@@ -19,3 +19,4 @@ Transport. For those despearate to get back to civilisation (not that Cockermout
 
 ||Alongth|Upth|
 |---|---|---|
+|**Day 10**|11.2 Miles (1.1 Windermeres)|2010ft (0.6 Scafell Pikes)|
