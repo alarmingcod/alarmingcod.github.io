@@ -11,7 +11,7 @@ categories: route
 
 Transport. You can reach Cockermouth on the X4/5 bus from penrith station. For the next 3 days on the northern outskirts of the Lake District bus routes are few and far between so the leg between Cockermouth and Penruddock may be bets tackled in a 3 day block.
 
-![Day 10 Route Map](/docs/assets/Day11CockermouthUldale.png)
+![Day 10 Route Map](/docs/assets/Day11CockermoutUldale.png)
 
 [View Route in OS Maps](https://explore.osmaps.com/route/30409503/ldb11-cockermouth-to-uldale)
 
