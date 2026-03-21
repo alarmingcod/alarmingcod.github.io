@@ -8,9 +8,9 @@ categories: route
 
 Transport for the day. Train to Burneside. Bus back from Levens/ near Levens, to Kendal.
 
-![Day 1 Route Map](/docs/assets/Day1-Burneside-Levens.png)
+![Day 1 Route Map](/docs/assets/Day1-Burneside-Levens.png))
 
-[View Route in OS Maps](https://explore.osmaps.com/route/30407399/ldb-burneside-to-levens?lat=54.28191&lon=-2.80256&zoom=12.268&overlays=os-obstacles-layer&style=TopoAuto&type=2d)
+[View Route in OS Maps](https://explore.osmaps.com/route/30407399/ldb-burneside-to-levens?lat=54.28191&lon=-2.80256&zoom=12.268&overlays=os-obstacles-layer&style=TopoAuto&type=2d){:target="_blank"}
 
 #### Totals for the Day
 
