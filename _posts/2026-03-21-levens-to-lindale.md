@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Day 2: Levens to Lindale"
+date:   2026-03-21 09:50:00 +0000
+categories: route
+---
+**Start from** Burneside Rail Station the route initially follows the River Kent upstream to Cowan Head before cutting south to Cunswick Scar. Then follows the escarpments west of Kendal, above the Lyth Valley down to the village of Levens.
+
+Transport for the day. Train to Burneside. Bus back from Levens/ near Levens, to Kendal.
+
+![Day 1 Route Map](/docs/assets/Day1-Burneside-Levens.png)
+
+[View Route in OS Maps](https://explore.osmaps.com/route/30407399/ldb-burneside-to-levens?lat=54.28191&lon=-2.80256&zoom=12.268&overlays=os-obstacles-layer&style=TopoAuto&type=2d)
+
+#### Totals for the Day
+
+||Alongth|Upth|
+|---|---|---|
+|**Day1**|13 Miles (1.2 Windermeres)|1400ft (0.4 ScafellPikes)|
