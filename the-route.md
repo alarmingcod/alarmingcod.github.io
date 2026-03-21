@@ -36,6 +36,6 @@ Day 14: [Penruddock to Hackthorpe](/route/2026/03/21/penruddock-hackthorpe.html)
 
 Day 15: [Hackthorpe to Shap](/route/2026/03/21/hackthorpe-shap.html)
 
-Day 16: [Shap to Tebay]()
+Day 16: [Shap to Tebay](/route/2026/03/21/shap-tebay.html)
 
 Day 17: [Tebay to Burneside](/route/2026/03/21/Tebay-Burneside.html)
