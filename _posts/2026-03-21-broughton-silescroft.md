@@ -14,7 +14,7 @@ So it isn't.
 
 Transport. Train out to Foxfield, Train back from Silecroft. 
 
-![Day 5 Route Map](/‎docs/assets/Day5BroughtonSilecroft.png)
+![Day 5 Route Map](/docs/assets/Day5BroughtonSilecroft.png)
 
 [View Route in OS Maps](https://explore.osmaps.com/route/30408562/ldb-5-broughton-in-furness-to-silecroft)
 
