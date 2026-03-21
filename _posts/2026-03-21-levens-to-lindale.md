@@ -8,7 +8,7 @@ categories: route
 
 Transport for the day. Bus fron Kendal to Levens, at the end of the day wander into Grange for fish and chips before catching the train  back towards Carnforth
 
-![Day 1 Route Map](docs/assets/Day2-Levens-Lindale.png)
+![Day 2 Route Map](/docs/assets/Day2-Levens-Lindale.png)
 
 [View Route in OS Maps](https://explore.osmaps.com/route/30407699/ldb2-levens-to-lindale?lat=54.20529&lon=-2.84752&zoom=11.9116&overlays=os-obstacles-layer&style=TopoAuto&type=2d)
 
