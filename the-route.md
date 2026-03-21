@@ -6,7 +6,7 @@ permalink: /the-route/
 
 Starting and Ending at Burneside Rail Station, the full route covers 206 miles and climbs nearly 27,00ft. That's 19 and a half Windermeres and almost 8 and a half Scafell Pikes, fact fans.
 
-Day 1: Burneside to Levens
+Day 1: [Burneside to Levens](/pages/burneside-levens.md)
 
 Day 2: Levens to Lindale
 
