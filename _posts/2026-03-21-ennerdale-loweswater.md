@@ -11,7 +11,7 @@ Day 9 takes in some of the Loweswater Fells, a group of lesser visited fells in 
 
 Transport. Public transport options are sketchy at this point on the trail.
 
-![Day 8 Route Map](/docs/assets/Day8CalderEnnerdale.png)
+![Day 9 Route Map](/docs/assets/Day9EnnerdaleLoweswater.png)
 
 [View Route in OS Maps](https://explore.osmaps.com/route/30408981/ldb-9-ennerdale-bridge-to-loweswater)
 
@@ -19,4 +19,4 @@ Transport. Public transport options are sketchy at this point on the trail.
 
 ||Alongth|Upth|
 |---|---|---|
-|**Day 8**|11.9 Miles (1.1 Windermeres)|2360ft (0.7 Scafell Pikes)|
+|**Day 9**|11.9 Miles (1.1 Windermeres)|2360ft (0.7 Scafell Pikes)|
